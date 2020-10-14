@@ -163,7 +163,6 @@
     font-size: 48px;
     font-weight: 700;
     font-style: italic;
-    box-shadow: 3px 6px rgba(0, 0, 0, 0.25);
   }
 
   .CityNotFound {
