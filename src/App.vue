@@ -6,7 +6,7 @@
         <input 
         type="text" 
         class="search-bar" 
-        placeholder="Enter the desired area to get its the weather forecast"
+        placeholder="Enter the desired area to get its weather forecast"
         v-model="query"
         @keypress="fetchWeather"
         >
