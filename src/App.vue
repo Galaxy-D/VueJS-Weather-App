@@ -178,7 +178,11 @@
     
     .CityNotFound {
       font-size: 20px;
-    font-weight: 700;
+      font-weight: 700;
+    }
+    .search-box input::placeholder {
+      font-size: 16px;
+      font-weight: 700;
     }
   }
   
